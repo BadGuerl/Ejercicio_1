@@ -1,0 +1,1 @@
+console.log('Estoy realizando el curso de JavaScript, y estoy aprendiendo mucho')
